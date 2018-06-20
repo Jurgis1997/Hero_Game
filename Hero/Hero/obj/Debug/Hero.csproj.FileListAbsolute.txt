@@ -1,0 +1,10 @@
+C:\Users\Special\source\repos\Hero\Hero\bin\Debug\Hero.exe.config
+C:\Users\Special\source\repos\Hero\Hero\bin\Debug\Hero.exe
+C:\Users\Special\source\repos\Hero\Hero\bin\Debug\Hero.pdb
+C:\Users\Special\source\repos\Hero\Hero\obj\Debug\Hero.csprojAssemblyReference.cache
+C:\Users\Special\source\repos\Hero\Hero\obj\Debug\Hero.Form1.resources
+C:\Users\Special\source\repos\Hero\Hero\obj\Debug\Hero.Properties.Resources.resources
+C:\Users\Special\source\repos\Hero\Hero\obj\Debug\Hero.csproj.GenerateResource.cache
+C:\Users\Special\source\repos\Hero\Hero\obj\Debug\Hero.csproj.CoreCompileInputs.cache
+C:\Users\Special\source\repos\Hero\Hero\obj\Debug\Hero.exe
+C:\Users\Special\source\repos\Hero\Hero\obj\Debug\Hero.pdb
